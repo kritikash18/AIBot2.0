@@ -1,0 +1,6 @@
+llama-index
+openai
+flask
+IPython
+docx2txt
+pypdf
